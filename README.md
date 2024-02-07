@@ -2,3 +2,6 @@
 Template project repository for DSCI-100
 
 ## hello
+```
+hi there
+```
